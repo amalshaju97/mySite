@@ -1,0 +1,19 @@
+.mainDiv{
+    height: 60px;
+    background-color: blue;
+    display: flex;
+    width: 100%;
+}
+
+.navbar{
+    display: flex;
+}
+
+.logo{
+    display: block;
+    width: 20%;
+}
+
+.categories{
+    display: flex;
+}
